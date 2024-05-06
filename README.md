@@ -24,12 +24,20 @@ Use:
 Execute: python SRCNN.py
 Results : Please check SRCNN and SRGAN.pdf uploaded for better understanding
 
-- Degraded image:
+-**SRCNN result** : Below are the results
+![WIN_20230726_17_26_16_Pro](https://github.com/singhsaurabh88/Image-super-resolution-Deep-Learning-model/assets/109754949/8b59a1af-820d-47a3-97ee-16a1e10216cf)
+
+![coastguard](https://github.com/singhsaurabh88/Image-super-resolution-Deep-Learning-model/assets/109754949/a85b6480-e836-4c3e-a6ab-dd70befe1127)
+
+![ppt3](https://github.com/singhsaurabh88/Image-super-resolution-Deep-Learning-model/assets/109754949/086d6f30-03d9-4157-b4a7-09897d11a2c4)
 
 
 
-- SRCNN Image
++ **SRGAN Result** : Below are the results
++ 
+<img width="1010" alt="srgan1" src="https://github.com/singhsaurabh88/Image-super-resolution-Deep-Learning-model/assets/109754949/f363d3e4-999f-4acd-8370-e2fb536d0f51">
 
+<img width="1010" alt="srgasn2" src="https://github.com/singhsaurabh88/Image-super-resolution-Deep-Learning-model/assets/109754949/fbe2bbfe-aa55-4752-8136-59677198414c">
 
 
 
