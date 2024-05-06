@@ -2,6 +2,12 @@
 
 The original paper is Learning a Deep Convolutional Network for Image Super-Resolution : [Click Here](https://ieeexplore.ieee.org/abstract/document/7115171)
 
+# SRCNN Architecture:
+<img width="1012" alt="SRCNN" src="https://github.com/singhsaurabh88/Image-super-resolution-Deep-Learning-model/assets/109754949/bbcdd611-2b54-4158-98ab-ffd3cab15529">
+
+# SRGAN Architecture:
+<img width="863" alt="srgan" src="https://github.com/singhsaurabh88/Image-super-resolution-Deep-Learning-model/assets/109754949/cd971198-4575-4657-889f-a1d06c47b590">
+
 # Objectives
 
 Implemented super resolution convolutional neural networks (SRCNN) and applied super resolution to input images.
