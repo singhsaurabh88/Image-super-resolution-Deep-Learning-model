@@ -19,10 +19,15 @@ Implemented super resolution convolutional neural networks (SRCNN) and applied s
 
 5. Deploy and evaluate the SRCNN network
 
-Use:
 
-Execute: python SRCNN.py
-Results : Please check SRCNN and SRGAN.pdf uploaded for better understanding
+# Files
+- **SRCNN** : Folder for work related to SRCNN
+- **SRGNN** : Folder for work related to SRGAN
+- **Output**"  Check results/ output folder for subsequent results in SRCNN adn SRGAN folders
+
+
+
+# Results : Please check SRCNN and SRGAN.pdf uploaded for better understanding
 
 -**SRCNN result** : Below are the results
 ![WIN_20230726_17_26_16_Pro](https://github.com/singhsaurabh88/Image-super-resolution-Deep-Learning-model/assets/109754949/8b59a1af-820d-47a3-97ee-16a1e10216cf)
