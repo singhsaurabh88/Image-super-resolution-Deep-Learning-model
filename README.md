@@ -1,6 +1,6 @@
 # Image-Super-Resolution-with-SRCNN-SRGAN
 
-The original paper is Learning a Deep Convolutional Network for Image Super-Resolution : [Click Here]([https://www.google.com](https://ieeexplore.ieee.org/abstract/document/7115171))
+The original paper is Learning a Deep Convolutional Network for Image Super-Resolution : [Click Here](https://ieeexplore.ieee.org/abstract/document/7115171)
 
 # Objectives
 
